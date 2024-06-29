@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="746048b8-d6d7-4c05-adab-36c0a1c35d6d" name="Changes" comment="hr-user created, User,Rale , many to many to many association, Database seeding, UserRepository, UserResource, Zull config">
-      <change afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/config/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-oauth/src/main/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/HrApiGatewayZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/HrApiGatewayZuulApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/config/ResourceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/config/ResourceServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/ms_springcloud/hroauth/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/ms_springcloud/hroauth/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/ms_springcloud/hroauth/config/AutorizationServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/ms_springcloud/hroauth/config/AuthorizationServerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ms_springcloud/hruser/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ms_springcloud/hruser/entities/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
