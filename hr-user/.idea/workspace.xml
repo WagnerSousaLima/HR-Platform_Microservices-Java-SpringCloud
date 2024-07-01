@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="746048b8-d6d7-4c05-adab-36c0a1c35d6d" name="Changes" comment="hr-user created, User,Rale , many to many to many association, Database seeding, UserRepository, UserResource, Zull config">
-      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/config/ResourceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/config/ResourceServerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="746048b8-d6d7-4c05-adab-36c0a1c35d6d" name="Changes" comment="hr-user created, User,Rale , many to many to many association, Database seeding, UserRepository, UserResource, Zull config" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
