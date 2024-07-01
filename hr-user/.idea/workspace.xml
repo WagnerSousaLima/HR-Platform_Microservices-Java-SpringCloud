@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="746048b8-d6d7-4c05-adab-36c0a1c35d6d" name="Changes" comment="hr-user created, User,Rale , many to many to many association, Database seeding, UserRepository, UserResource, Zull config" />
+    <list default="true" id="746048b8-d6d7-4c05-adab-36c0a1c35d6d" name="Changes" comment="hr-user created, User,Rale , many to many to many association, Database seeding, UserRepository, UserResource, Zull config">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/java/com/springcloud/hr_worker/resources/WorkerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/com/springcloud/hr_worker/resources/WorkerResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,20 +58,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HrUserApplication.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/wagne/OneDrive - Compass UOL/docs/ms-springcloud/hr-user&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HrUserApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "docker",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/wagne/OneDrive - Compass UOL/docs/ms-springcloud/hr-user/src/main/resources",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wagne\OneDrive - Compass UOL\docs\ms-springcloud\hr-user\src\main\resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="HrUserApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ms_springcloud.hruser.HrUserApplication" />
