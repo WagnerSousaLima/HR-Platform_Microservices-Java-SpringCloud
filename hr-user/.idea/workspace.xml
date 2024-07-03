@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="746048b8-d6d7-4c05-adab-36c0a1c35d6d" name="Changes" comment="Container references">
-      <change afterPath="$PROJECT_DIR$/../hr-config-server/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-eureka-server/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-eureka-server/src/test/java/com/project_springcloud/hr_eureka_server/HrEurekaServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-eureka-server/src/test/java/com/project_springcloud/hr_eureka_server/HrEurekaServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-worker/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
