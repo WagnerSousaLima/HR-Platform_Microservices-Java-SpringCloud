@@ -9,7 +9,7 @@
 
 <h2 align="center"> 💻 Projeto </h2>
 
-O sistema criado é uma aplicação de recuso humanos "hr" , onde os micro serviços fazem a autenticação e autorização segundo as roles dos usuários, cadastro de trabalhadores e aplicação da regra de negócio para pagamento do trabalhador.
+O sistema criado é uma aplicação de recursos humanos "hr" , onde os micro-serviços fazem a autenticação e autorização segundo as roles dos usuários, cadastro de trabalhadores e aplicação da regra de negócio para pagamento do trabalhador.
 
 O objetivo deste projeto é estruturar um sistema de microsserviços Java utilizando Spring Boot e Spring Cloud, um sistema composto por vários microsserviços que se comunicam entre si de forma transparente, escalável e com balanceamento de carga.
 
