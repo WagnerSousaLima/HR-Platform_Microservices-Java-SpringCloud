@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="746048b8-d6d7-4c05-adab-36c0a1c35d6d" name="Changes" comment="hr-user created, User,Rale , many to many to many association, Database seeding, UserRepository, UserResource, Zull config">
-      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/config/ResourceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/project_springcloud/hr_api_gateway_zuul/config/ResourceServerConfig.java" afterDir="false" />
+    <list default="true" id="746048b8-d6d7-4c05-adab-36c0a1c35d6d" name="Changes" comment="hr-user container">
+      <change afterPath="$PROJECT_DIR$/../hr-oauth/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,16 +58,21 @@
   &quot;keyToString&quot;: {
     &quot;Application.HrUserApplication.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;docker&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/wagne/OneDrive - Compass UOL/docs/ms-springcloud/hr-user&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wagne/OneDrive - Compass UOL/docs/ms-springcloud/hr-user/src/main/resources&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wagne\OneDrive - Compass UOL\docs\ms-springcloud\hr-user\src\main\resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="HrUserApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ms_springcloud.hruser.HrUserApplication" />
@@ -105,7 +110,39 @@
       <option name="project" value="LOCAL" />
       <updated>1719264606211</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="db config server">
+      <option name="closed" value="true" />
+      <created>1719851911269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719851911270</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hr-user &amp; hr-worker Postgress dev profile">
+      <option name="closed" value="true" />
+      <created>1720031287446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720031287446</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Container references">
+      <option name="closed" value="true" />
+      <created>1720032664956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720032664956</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hr-user container">
+      <option name="closed" value="true" />
+      <created>1720051043839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720051043839</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +170,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hr-user created, User,Rale , many to many to many association, Database seeding, UserRepository, UserResource, Zull config" />
-    <option name="LAST_COMMIT_MESSAGE" value="hr-user created, User,Rale , many to many to many association, Database seeding, UserRepository, UserResource, Zull config" />
+    <MESSAGE value="db config server" />
+    <MESSAGE value="hr-user &amp; hr-worker Postgress dev profile" />
+    <MESSAGE value="Container references" />
+    <MESSAGE value="hr-user container" />
+    <option name="LAST_COMMIT_MESSAGE" value="hr-user container" />
   </component>
 </project>
