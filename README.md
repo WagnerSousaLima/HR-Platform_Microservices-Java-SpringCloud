@@ -35,3 +35,4 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 - Spring Cloud para gestão e comunicação entre microsserviços.
 - Docker para a geração de containers.
 - Git e Github para controle de versão e hospedagem do código-fonte.
+- 
